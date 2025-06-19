@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 - Download the preprocessed datasets from [here](https://drive.google.com/drive/folders/1J1mvbqQmVodNBzbiOIxRiWOtkP6qqP-K?usp=sharing), and put them into `data/`.
 
-## Run SDT model
+## Run model
 - Run the model on IEMOCAP dataset:
 ```console
 
