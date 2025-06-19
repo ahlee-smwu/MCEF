@@ -13,6 +13,9 @@ This repository is based on SDT model and source.
     <img src="fig/SDT.jpg" width="85%" title="SDT."</img>
 </div>
 
+![image](https://github.com/user-attachments/assets/f49b9b48-97f3-4148-96a5-335cf563e26f)
+
+
 ## Setup
 - Check the packages needed or simply run the command:
 ```console
