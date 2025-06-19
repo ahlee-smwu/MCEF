@@ -1,7 +1,8 @@
 # MCEF: Multimodal Correlated Equal Fusion Network for Emotion Recognition in Utterance Level
 
 We propose a MCEF that equally integrates each modality and implement a 2 loss system that considers both intra- and inter-modal characteristics.
-\n This repository is based on SDT model and source.
+
+This repository is based on SDT model and source.
 
 ## Model Architecture
 <!-- ![Image of SDT](fig/SDT.jpg) -->
