@@ -1,4 +1,4 @@
-# Multimodal Correlated Fusion Network for Emotion Recognition in Utterance Level
+# MCEF: Multimodal Correlated Equal Fusion Network for Emotion Recognition in Utterance Level
 
 This repository is based on SDT model and source.
 
