@@ -8,10 +8,6 @@ Experimental results on the IEMOCAP dataset demonstrate the effectiveness of our
 This repository is based on SDT model and source.
 
 ## Model Architecture
-<!-- ![Image of SDT](fig/SDT.jpg) -->
-<div align="center">
-    <img src="fig/SDT.jpg" width="85%" title="SDT."</img>
-</div>
 
 ![image](https://github.com/user-attachments/assets/f49b9b48-97f3-4148-96a5-335cf563e26f)
 
