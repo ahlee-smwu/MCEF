@@ -24,11 +24,6 @@ pip install -r requirements.txt
 
 bash exec_iemocap.sh
 ```
-- Run the model on MELD dataset:
-```console
-
-bash exec_meld.sh
-```
 
 ## Acknowledgements
 - Special thanks to the [COSMIC](https://github.com/declare-lab/conv-emotion) and [MMGCN](https://github.com/hujingwen6666/MMGCN) for sharing their codes and datasets.
